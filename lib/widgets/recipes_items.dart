@@ -27,7 +27,7 @@ class RecipesItems extends StatelessWidget {
           ),
           subtitle: Text('${subtile}', style: TextStyle(fontSize: 15)),
           trailing: Padding(
-            padding: EdgeInsets.only(bottom: 35, right: 10),
+            padding: EdgeInsets.only(bottom: 40, right: 10),
             child: Text(
               '${trailing}',
               style: TextStyle(fontSize: 15),
