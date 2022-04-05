@@ -37,7 +37,7 @@ final List recipes_lists = [
   },
   {
     "image": "assets/image7.jpg",
-    "subtile": "Deliciously vegetarian Jackfruit recipes that taste like meat",
+    "subtitle": "Deliciously vegetarian Jackfruit recipes that taste like meat",
     "title": "Vegetarian Jackfruit",
     "trailing": "07"
   },
